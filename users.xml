@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>sjakirovic</username>
+        <password>dinamo</password>
+        <ime>Sergej</ime>
+        <prezime>Jakirović</prezime>
+    </user>
+    <user>
+        <username>zsopic</username>
+        <password>rijeka</password>
+        <ime>Željko</ime>
+        <prezime>Sopić</prezime>
+    </user>
+</users>
